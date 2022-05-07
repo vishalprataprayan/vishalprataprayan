@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vishal Rayan (a.k.a Rayansec) <br> <a href="https://www.github.com/vishalprataprayan">Security Analyst</a>, <a href="https://www.linkedin.com/in/vishalprataprayan">Cyber Security Professional</a>, and <a href="https://www.youtube.com/channel/UCDZwQXQwV16x3M-YePALJ5g">YouTuber</a></h1>
+<h1>Hi, I'm Vishal Rayan (<i>a.k.a</i> Rayansec) <br> <a href="https://www.github.com/vishalprataprayan">Security Analyst</a>, <a href="https://www.linkedin.com/in/vishalprataprayan">Cyber Security Professional</a>, and <a href="https://www.youtube.com/channel/UCDZwQXQwV16x3M-YePALJ5g">YouTuber</a></h1>
 
 <h2>🌐Portfolio Links</h2>
 <b>✳️<a href="https://students.mosse-institute.com/student/OLL6ag5uYaY0zKn39WCqI4uKe3g2">Mossé Cybersecurity Institute</a></b><br>
@@ -8,7 +8,8 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/rayansec.png" alt="TryHackMe">
 
 <h2>🖳Cyber Security Projects</h2>
-<h3>📖Academic</h3>
+<h3>📖Academic</h3><br>
+<h5>Academic Cybersecurity Projects done by me.<h5>
 <h3>🧑🏿‍💻Personal</h3>
 <h2>📹Popular YouTube videos</h2>
 <h2>🔌Connect with me</h2>
