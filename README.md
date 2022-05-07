@@ -14,13 +14,14 @@
 🔹Inspection of Web Trackers and comparison of privacy preserving tools<br>
 <h2>📹Popular YouTube videos</h2>
 🔸<a href="https://www.youtube.com/watch?v=NlYlIo-dGa4">BITB Attack demo</a>
-<h2>🔌Connect with me</h2>
-[<img align="left" alt="Rayansec | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Vishal Rayan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Vishal Rayan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rayansec | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2> 🤳 Connect with me:</h2>
 
-[twitter]: https://twitter.com/vishal_rayansec
-[youtube]: https://www.youtube.com/watch?v=NlYlIo-dGa4
-[instagram]: https://www.instagram.com/rayansec.ig/
-[linkedin]: https://linkedin.com/in/vishalprataprayan
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
