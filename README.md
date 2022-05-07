@@ -8,10 +8,10 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/rayansec.png" alt="TryHackMe">
 
 <h2>🖳Cyber Security Projects</h2>
-<h3>📖Academic</h3><br>
-<i>Academic Cybersecurity Projects done by me.</i><br>
-<h3>🧑🏿‍💻Personal</h3><br>
-<i>Personal Cybersecurity Projects done by me.</i><br>
+<h3>📖Academic</h3>
+🟡Penetration Test report
+🟡IoT Smart Home - Security Evaluation
+🟡Inspection of Web Trackers and comparison of privacy preserving tools
 <h2>📹Popular YouTube videos</h2>
 <h2>🔌Connect with me</h2>
 
