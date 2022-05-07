@@ -5,6 +5,7 @@
 → I'm interning with Mossé Cybersecurity Institute where I'm developing key cybersecurity skills. Check my portfolio where all my progress has been documented.<br><br>
 <b>✳️<a href="https://tryhackme.com/p/rayansec">TryHackMe</a></b><br>
 → View my progress at TryHackMe! This is where I sharpen my cybersecurity skills.<br>
+<script src="https://tryhackme.com/badge/215846"></script>
 
 <h2>🖳Cyber Security Projects</h2>
 <h3>📖Academic</h3>
