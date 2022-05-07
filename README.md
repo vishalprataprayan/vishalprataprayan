@@ -9,9 +9,9 @@
 
 <h2>🖳Cyber Security Projects</h2>
 <h3>📖Academic</h3>
-🟡Penetration Test report
-🟡IoT Smart Home - Security Evaluation
-🟡Inspection of Web Trackers and comparison of privacy preserving tools
+🟡Penetration Test report<br>
+🟡IoT Smart Home - Security Evaluation<br>
+🟡Inspection of Web Trackers and comparison of privacy preserving tools<br>
 <h2>📹Popular YouTube videos</h2>
 <h2>🔌Connect with me</h2>
 
