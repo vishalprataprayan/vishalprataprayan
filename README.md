@@ -2,9 +2,9 @@
 
 <h2>🌐Portfolio Links</h2>
 <b>✳️Mossé Cybersecurity Institute</b>
-<li></li>
+→ I'm interning with Mossé Cybersecurity Institute where I'm developing key cybersecurity skills. Check my portfolio where all my progress has been documented.
 <b>✳️TryHackMe</b>
-<li></li>
+→ View my progress at TryHackMe! This is where I sharpen my cybersecurity skills.
 
 <h2>🖳Cyber Security Projects</h2>
 <h3>📖Academic</h3>
