@@ -3,7 +3,7 @@
 <h2>🌐Portfolio Links</h2>
 <b>✳️<a href="https://tryhackme.com/p/rayansec">TryHackMe</a></b><br>
 → View my progress at TryHackMe! This is where I sharpen my cybersecurity skills.<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/rayansec.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/rayansec.png" alt="Rayansec Badge" />
 
 <h2>🖳Cyber Security Projects</h2>
 <h3>📖Academic</h3>
