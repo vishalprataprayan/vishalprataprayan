@@ -7,8 +7,8 @@
 
 <h2>🖳Cyber Security Projects</h2>
 <h2>📹Popular YouTube videos</h2>
-🔸<a href="https://www.youtube.com/watch?v=pk5_kG52uW8&t=101s">Wireshark: Identify Hosts and Users</a><br>
-🔸<a href="https://www.youtube.com/watch?v=FIpErmksnT8&t=44s">Baselines and Anomalies</a>
+▶️<a href="https://www.youtube.com/watch?v=pk5_kG52uW8&t=101s">Wireshark: Identify Hosts and Users</a><br>
+▶️<a href="https://www.youtube.com/watch?v=FIpErmksnT8&t=44s">Baselines and Anomalies</a>
 <h3>📖Academic</h3>
 🔸<a href="https://github.com/vishalprataprayan/Cyber-Security-Coursework/blob/main/Ethical%20Hacking%20-%20coursework.pdf">Penetration Test report</a><br>
 🔸<a href="https://github.com/vishalprataprayan/Cyber-Security-Coursework/blob/main/IoT%20Hacking%20-%20coursework.pdf">IoT Smart Home - Security Evaluation</a><br>
