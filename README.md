@@ -6,12 +6,14 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/rayansec.png" alt="Rayansec Badge" />
 
 <h2>🖳Cyber Security Projects</h2>
+<h2>📹Popular YouTube videos</h2>
+🔸<a href="https://www.youtube.com/watch?v=pk5_kG52uW8&t=101s">Wireshark: Identify Hosts and Users</a><br>
+🔸<a href="https://www.youtube.com/watch?v=FIpErmksnT8&t=44s">Baselines and Anomalies</a>
 <h3>📖Academic</h3>
 🔸<a href="https://github.com/vishalprataprayan/Cyber-Security-Coursework/blob/main/Ethical%20Hacking%20-%20coursework.pdf">Penetration Test report</a><br>
 🔸<a href="https://github.com/vishalprataprayan/Cyber-Security-Coursework/blob/main/IoT%20Hacking%20-%20coursework.pdf">IoT Smart Home - Security Evaluation</a><br>
 🔸<a href="https://github.com/vishalprataprayan/Cyber-Security-Coursework/blob/main/Dissertation%20Project%20-%202020.pdf">Inspection of Web Trackers and comparison of privacy preserving tools</a><br>
-<h2>📹Popular YouTube videos</h2>
-🔸<a href="https://www.youtube.com/watch?v=NlYlIo-dGa4">BITB Attack demo</a>
+
 <h2> 🔌 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
